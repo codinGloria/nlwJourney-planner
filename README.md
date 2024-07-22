@@ -1,5 +1,5 @@
-<h1 align="center"> Projeto Plann.er ✍🏾 - STAND BY </h1>
-Plataforma: Rocketseat - Feito com React e Java.
+<h1 align="center"> Projeto Plann.er ✍🏾 </h1>
+Plataforma: Rocketseat - Feito com Java.
 
 # Sobre o projeto
 
@@ -29,15 +29,6 @@ A API fornece os seguintes endpoints:
 - GET /trips/{tripId}/invites - Consultar atividades de uma viagem 
 - POST /trips/{tripId}/links - Criação de link 
 - GET /trips/{tripId}/links - Consultar links de uma viagem 
-
-## STANDY BY REASON
-  O projeto foi colocado em stand by pelos seguintes motivos:
-  
-- Tudo que foi passado durante a NLW está feito, portanto, pretendo adicionar mais algumas funcionalidades por conta própria.
-- O sistema parece meio incompleto, já que faço as requisições POST por Insomnia/Postman.
-- Funcionalidades que serão adicionadas:
-  - Validação de dados (campos de datas);
-  - Mapeamento das exceções, com tratativas de erro personalizadas.
 
 ## Tecnologias
 
